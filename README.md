@@ -209,5 +209,6 @@ The project demonstrates practical backend concepts including:
 
 **Iqra Khan**
 
-BS Information Technology Student
+BS Information Technology Studen
+<br>
 Backend Development Intern — CodeAlpha
